@@ -6,6 +6,6 @@ cd build
 cmake ..
 make
 
-### 
+### Howto Run
 ./write/write
 ./read/read
